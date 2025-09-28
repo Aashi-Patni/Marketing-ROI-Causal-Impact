@@ -87,7 +87,7 @@ This provides decision-makers with:
 
 ---
 
-## ✅ Recommendations to Management
+## Recommendations to Management
 
 1. **Run Controlled Randomized Tests**  
    The current study was not fully controlled. Future randomized controlled tests would provide a more accurate measure of ad impact.
