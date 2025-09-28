@@ -89,9 +89,13 @@ This provides decision-makers with:
 
 ## ✅ Recommendations to Management
 
-1. **Continue Branded Ads**, but with ROI expectations based on causal impact.
-2. **Optimize Ad Timing** based on behavioral data.
-3. **Implement Controlled Experiments** (geo-tests, A/B testing).
-4. **Shift to Causal Attribution** models for better budgeting.
+1. **Run Controlled Randomized Tests**  
+   The current study was not fully controlled. Future randomized controlled tests would provide a more accurate measure of ad impact.
+
+2. **Optimize Ad Timing**  
+   Branded ads may be more effective during certain times of the day (e.g., lunchtime, evenings). Future campaigns should measure ROI by time-of-day to optimize delivery.
+
+3. **Refine Ad Strategy Instead of Removal**  
+   Ads remain effective but deliver a lower ROI than initially assumed. Rather than discontinuing, the strategy should focus on optimizing budget allocation and targeting to maximize impact.
 
 ---
